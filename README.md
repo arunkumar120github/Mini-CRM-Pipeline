@@ -54,7 +54,7 @@ This project allows users to manage sales leads across multiple pipeline stages 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/mini-crm-pipeline.git
+git clone https://github.com/arunkumar120github/Mini-CRM-Pipeline.git
 cd mini-crm-pipeline
 
 composer install
